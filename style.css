@@ -29,7 +29,7 @@ body{
 }
 .cube div{
     position: absolute;
-    top: 0px;
+    top: 50px;
     left: 0px;
     height: 100%;
     width: 100%;
